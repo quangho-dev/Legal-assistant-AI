@@ -1,0 +1,16 @@
+openai-agents
+python-dotenv
+pydantic
+faiss-cpu
+pypdf2
+langchain
+openai
+huggingface_hub
+langchain-text-splitters
+langchain-openai
+langchain-community
+faiss-cpu
+langchain_core
+streamlit
+pandas
+numpy
